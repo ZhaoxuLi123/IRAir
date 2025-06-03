@@ -1,4 +1,4 @@
-# IRAir Dataset
+# IRAir
 This is the official repository for IRAir dataset in ["A lightweight dark object detection network for infrared images"](http://journal.sitp.ac.cn/hwyhmb/hwyhmben/article/abstract/2024116?st=article_issue).
 
 ## Abstract
