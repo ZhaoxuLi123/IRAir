@@ -20,15 +20,16 @@ If the work is helpful, please cite the paper:
 ```
 @article{li2024irair,
   title = {A lightweight dark object detection network for infrared images},
-  author ={Li, Zhaoxu and Xu, Qingyu and An, Wei and He, Xu and Guo, Gaowei and Li, Miao and Ling, Qiang and Wang, Longguang and Xiao, Chao and Lin, Zaiping}
- journal = {Journal of Infrared and Millimeter Waves},
+  author = {Li, Zhao-Xu and Xu, Qing-Xu and An, Wei and He, Xu and Guo, Gao-Wei and Li, Miao and Ling, Qiang and Wang, Long-Guang and Xiao, Chao and Lin, Zai-Ping}
+ journal = {JOURNAL OF INFRARED AND MILLIMETER WAVES},
  volume = {44},
  number = {2},
  pages = {285},
  numpages = {12},
  year = {2025},
- month = {04},
- doi = {10.11972/j.issn.1001-9014.2025.02.016},
+ month = {APR},
+ doi = {10.11972/j.issn.1001-9014.2025.02.017},
+ Unique-ID = {WOS:001434173600016},
 }
 
 
