@@ -20,7 +20,7 @@ If the work is helpful, please cite the paper:
 ```
 @article{li2024irair,
   title = {A lightweight dark object detection network for infrared images},
-  author = {Li, Zhao-Xu and Xu, Qing-Xu and An, Wei and He, Xu and Guo, Gao-Wei and Li, Miao and Ling, Qiang and Wang, Long-Guang and Xiao, Chao and Lin, Zai-Ping}
+  author = {Li, Zhao-Xu and Xu, Qing-Yu and An, Wei and He, Xu and Guo, Gao-Wei and Li, Miao and Ling, Qiang and Wang, Long-Guang and Xiao, Chao and Lin, Zai-Ping}
  journal = {JOURNAL OF INFRARED AND MILLIMETER WAVES},
  volume = {44},
  number = {2},
